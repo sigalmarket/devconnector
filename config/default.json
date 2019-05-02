@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://root:root@devconnector-pkgj4.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://root:root@devconnector-pkgj4.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
 }
